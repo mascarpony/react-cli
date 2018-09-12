@@ -4,7 +4,7 @@ Package for simple creating react components and containers.
 
 ## Commands
 
-Use `npm run g` or `npm run generate`. This cli create folders in the same directory, there it run.
+Use `npm run g` or `npm run generate`. This cli create folders in the same directory where it runs.
 
 ### Create component
 
